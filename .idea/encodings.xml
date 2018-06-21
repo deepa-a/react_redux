@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.babelrc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/.eslintrc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/package.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/actions/actionTypes.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/actions/ajaxStatusActions.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/actions/authorAction.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/actions/courseAction.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/actions/courseAction.test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/api/delay.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/api/mockAuthorApi.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/api/mockCourseApi.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/App.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/about/AboutPage.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/common/Header.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/common/LoadingDots.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/common/SelectInput.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/common/TextInput.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/course/CourseForm.Enzyme.test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/course/CourseForm.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/course/CourseForm_TestUtil.test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/course/CourseList.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/course/CourseListRow.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/course/CoursesPage.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/course/ManageCoursePage.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/course/ManageCoursePage.test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/home/HomePage.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/index.test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/reducers/ajaxStatusReducer.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/reducers/authorReducer.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/reducers/courseReducer.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/reducers/courseReducer.test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/reducers/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/reducers/intitalState.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/routes.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/selectors/selectors.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/selectors/selectors.test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/store/configureStore.dev.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/store/configureStore.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/store/configureStore.prod.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/store/store.test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/styles/styles.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tools/build.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tools/buildHtml.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tools/distServer.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tools/srcServer.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tools/startMessage.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tools/testSetup.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webpack.config.prod.js" charset="UTF-8" />
+    <file url="file://P:/Deepa/React/pluralsight-redux-starter-master/src/api/delay.js" charset="UTF-8" />
+  </component>
+</project>
